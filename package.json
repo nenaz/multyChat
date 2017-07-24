@@ -1,0 +1,27 @@
+{
+  "name": "multyChat",
+  "version": "0.1.0",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "consolidate": "^0.14.5",
+    "cors": "^2.8.4",
+    "ejs": "2.5.6",
+    "express": "4.15.2",
+    "handlebars": "^4.0.10",
+    "request": "^2.81.0",
+    "vk-io": "^3.1.7"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "license": "MIT"
+}
